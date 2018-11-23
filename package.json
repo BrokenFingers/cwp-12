@@ -1,0 +1,11 @@
+{
+  "name": "cwp-12",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "sequelize": "^4.41.2",
+    "sqlite3": "^4.0.4"
+  }
+}
